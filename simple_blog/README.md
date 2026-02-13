@@ -13,3 +13,7 @@ A clean, simple blog application perfect for learning Django and GitHub branchin
 - ⚡ **Interactive** - Smooth animations and transitions
 
 
+
+
+Powered By Tasmiya As Team lead
+
